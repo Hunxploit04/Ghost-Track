@@ -1,5 +1,6 @@
 ### Ghost-Track
 Tools buat mengetahui informasi seseorang melalui ip address atau bahasa lainnya melacak, saat kita menjalankan tools ini otomatis kita akan mendapatkan alamt, negara, kota, wilayah dll 
+
 <img src="https://github.com/Hunxploit04/Ghost-Track/blob/main/lacak.png" >
 
 ### Instalasi di Kali Linux 
