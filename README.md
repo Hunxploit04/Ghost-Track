@@ -13,7 +13,7 @@ pkg update && pkg upgrade
 pkg install git
 pkg install python3
 
-setelah semuanya terinstall, kita langsung saja ***git clone repository tools ini*** ```git clone https://github.com/Hunxploit04/Ghost-Track.git```.
+setelah semuanya terinstall, kita langsung saja *git clone repository tools ini*  ```git clone https://github.com/Hunxploit04/Ghost-Track.git```.
 lalu masuk ke directory ***Ghost-Track***
 ```
 cd Ghost-Track
