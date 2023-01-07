@@ -3,9 +3,10 @@ from sys import stderr
 import requests
 import json
 
-#=============================
+#==============================
 # MEMBUAT LACAK IP DENGAN IPAPI
-#=============================
+#==============================
+# MOHON IZIN, APABILA INGIN RECODE TOOLS INI
 def banner():
     time.sleep(0.5)
     stderr.writelines("""\033[36;1m
