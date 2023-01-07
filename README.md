@@ -14,7 +14,7 @@ pkg install git
 pkg install python3
 ```
 
-setelah semuanya terinstall, kita langsung saja ****git clone repository tools ini*** ```git clone https://github.com/Hunxploit04/Ghost-Track.git``` 
+setelah semuanya terinstall, kita langsung saja ***git clone repository tools ini*** ```git clone https://github.com/Hunxploit04/Ghost-Track.git``` 
 lalu masuk ke directory ***Ghost-Track***
 
 ```
@@ -25,8 +25,8 @@ python3 lacak.py <Masukan IP Target>
 ### Contoh penggunaan
 ***python3 lacak.py 8.8.8.8***
 
-Note :
+Note : 
 Tools ini dapat di jalankan di python3 
 
-### #Let's track ^_^
+#### #Let's track ^_^
 
