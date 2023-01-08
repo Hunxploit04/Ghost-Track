@@ -22,10 +22,12 @@ lalu masuk ke directory ***Ghost-Track***
 ```
 cd Ghost-Track
 pip3 install -r requirements.txt
-python3 lacak.py <Masukan IP Target>
+python3 lacak.py 
 ```
 ### Contoh penggunaan
-***python3 lacak.py 8.8.8.8***
+***python3 lacak.py***
+
+<img src"https://github.com/Hunxploit04/Ghost-Track/blob/main/usage.png">
 
 Note : 
 Tools ini dapat di jalankan di python3 
