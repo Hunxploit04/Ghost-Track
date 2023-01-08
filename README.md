@@ -27,7 +27,7 @@ python3 lacak.py
 ### Contoh penggunaan
 ***python3 lacak.py***
 
-<img src"https://github.com/Hunxploit04/Ghost-Track/blob/main/usage.png">
+<img src="https://github.com/Hunxploit04/Ghost-Track/blob/main/usage.png">
 
 Note : 
 Tools ini dapat di jalankan di python3 
