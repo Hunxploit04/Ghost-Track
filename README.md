@@ -25,7 +25,7 @@ pip3 install -r requirements.txt
 python3 lacak.py 
 ```
 ### Contoh penggunaan
-***python3 lacak.py***
+***python3 lacak.py < isi ip target >***
 
 <img src="https://github.com/Hunxploit04/Ghost-Track/blob/main/usage.png">
 
